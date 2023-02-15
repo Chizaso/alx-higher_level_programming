@@ -1,3 +1,2 @@
---Script that shows all databases.
+-- Script that shows all databases.
 SHOW DATABASES;
-
